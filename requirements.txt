@@ -1,0 +1,15 @@
+The installation of the pip dependencies "bit" and "web3" are as follows:
+
+$ pip install bit
+
+That command will install bit to be used with python. 
+
+$ pip list | grep bit
+
+To install web3, the command is as follows:
+
+$ pip install web3
+
+Similar to the bit library, that command will install web3 to be used with python. 
+
+$ pip list | grep web3
