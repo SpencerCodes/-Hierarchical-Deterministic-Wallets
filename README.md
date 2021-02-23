@@ -1,4 +1,4 @@
-# Blockchain-with-Python
+# Multi-Blockchain Wallet in Python
 
 ## Background
 
